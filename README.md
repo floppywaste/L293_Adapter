@@ -8,4 +8,5 @@ The board is two-sided and uses some SMD components.
 
 TODO
 ====
-Enter part values.
+* Enter part values.
+* Document pin layout
